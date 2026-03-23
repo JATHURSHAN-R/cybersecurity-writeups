@@ -17,15 +17,3 @@ Nmap | Burp Suite | Metasploit | Wireshark | Gobuster | Netcat
 ## ⚠️ Disclaimer
 All writeups are for educational purposes only.
 HTB writeups are only for retired machines following HTB's rules.
-```
-
----
-
-**Step 3 — Create folder structure**
-
-GitHub doesn't allow empty folders so you need to create a file inside each folder. Do this:
-
-1. Click **Add file** → **Create new file**
-2. In the filename box type exactly:
-```
-   THM/README.md
